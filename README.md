@@ -32,4 +32,4 @@ If you want to make your new landing page available under a domain like `{userna
 
 ## License
 
-MIT © Dinesh Pandiyan
+MIT © Arsal Alam
